@@ -1,5 +1,5 @@
 /*
-    Create multidimensional array. Fill it with random numbers. Show line with the biggest sum of numbers.
+    Create multidimensional array. Fill it with random numbers. Show the line with the biggest sum of numbers.
  */
 
 package day4;
