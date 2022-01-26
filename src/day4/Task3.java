@@ -1,3 +1,7 @@
+/*
+    Create multidimensional array. Fill it with random numbers. Show line with the biggest sum of numbers.
+ */
+
 package day4;
 
 import java.util.Random;
