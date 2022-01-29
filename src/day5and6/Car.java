@@ -1,9 +1,17 @@
-package day5;
+package day5and6;
 
 public class Car {
     private int releaseDate;
     private String color;
     private String model;
+
+    void info(){
+        System.out.println("Это автомобиль");
+    }
+
+    String yearDifference(int year){
+        return "Возраст(лет): " + (year - releaseDate);
+    }
 
     public int getReleaseDate() {
         return releaseDate;
